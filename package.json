@@ -1,0 +1,18 @@
+{
+  "name": "websockets-demo",
+  "version": "1.0.0",
+  "description": "nodejs web socket demo",
+  "main": "server.js",
+  "dependencies": {
+    "ws": "^7.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Mandeep Makkar",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/ws": "^7.2.5"
+  }
+}
